@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/src/main/java/behavioralPattern/ChainOfResponsibilityPattern/AbstractHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/behavioralPattern/ChainOfResponsibilityPattern/Handler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/behavioralPattern/ChainOfResponsibilityPattern/MyHandler.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/behavioralPattern/CommandPattern/Command.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/behavioralPattern/CommandPattern/Invoker.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/behavioralPattern/CommandPattern/MyCommand.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/behavioralPattern/CommandPattern/Receiver.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/behavioralPattern/interpreterPattern/Context.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/behavioralPattern/interpreterPattern/Expression.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/behavioralPattern/interpreterPattern/Minus.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/behavioralPattern/interpreterPattern/Plus.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/behavioralPattern/iteratorPattern/MyCollection.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/behavioralPattern/iteratorPattern/MyIterator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/behavioralPattern/mediator/Mediator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/behavioralPattern/mediator/MyMediator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/behavioralPattern/mediator/User.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/behavioralPattern/mediator/User1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/behavioralPattern/mediator/User2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/behavioralPattern/mementoPattern/Memento.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/behavioralPattern/mementoPattern/Original.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/behavioralPattern/mementoPattern/Storage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/behavioralPattern/observerPattern/eventNotifier/cloneableImp.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/behavioralPattern/strategyPattern/ICalculator.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/behavioralPattern/strategyPattern/calculatorImpl/Minus.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/behavioralPattern/strategyPattern/calculatorImpl/Multiply.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/behavioralPattern/strategyPattern/calculatorImpl/Plus.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/behavioralPattern/templateMethodPattern/Plus.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/behavioralPattern/visitorPattern/MySubject.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/behavioralPattern/visitorPattern/Subject.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/behavioralPattern/visitorPattern/Visitor.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/creationPattern/prototypePatten/PrototypeTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/structuralPattern/FacadePattern/CPU.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/structuralPattern/FacadePattern/Computer.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/structuralPattern/FacadePattern/Disk.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/structuralPattern/FacadePattern/Memory.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/structuralPattern/bridgePattern/Bridge.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/structuralPattern/bridgePattern/MyBridge.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/structuralPattern/bridgePattern/SourceSub1.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/structuralPattern/bridgePattern/SourceSub2.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/structuralPattern/bridgePattern/Sourceable.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/structuralPattern/decooratorPattern/CoffeeTest.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java/structuralPattern/decooratorPattern/SimpleCoffee.java" charset="UTF-8" />
+    <file url="file://D:/the-one-1.6.0/routing/MessageRouter.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
